@@ -1,0 +1,10 @@
+<Name>  <Won>   <points>
+i    N       0
+
+i    N       0
+
+o    N       0
+
+r    N       0
+
+Taryn    N       0
